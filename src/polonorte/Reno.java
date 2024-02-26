@@ -29,7 +29,7 @@ public class Reno {
 		System.out.println("vuela libre");
 
 		System.out.println("Reno Renardo");
-System.out.println("vuela vuela");
+		System.out.println("vuela vuela");
         return "mmmmmiiiiii chus chus peeeeerrrr";
     }
 
